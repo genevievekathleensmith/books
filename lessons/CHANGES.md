@@ -1,6 +1,22 @@
 Grip Changelog OMG GKS IS MAKING ch-ch-changes!
 ==============
 
+###Introduction
+
+**bold** = write on board
+
+Begin by writing out all weeks on the board:
+
+* **Week 1**
+* **Week 2**
+* **Week 3**
+* **Week 4**
+* **Weeks 5, 6, 7**
+
+Next, fill out what has been accomplished so far:
+
+* Week 1: **check**
+* Week 2: **check**
 
 Version 3.2.0 (2015-02-24)
 --------------------------
