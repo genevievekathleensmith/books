@@ -1,4 +1,4 @@
-Intro to Week 3: OMG GKS IS MAKING ch-ch-changes!
+Intro to Week 3
 ==============
 
 ### Introduction
